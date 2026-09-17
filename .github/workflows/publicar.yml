@@ -1,0 +1,39 @@
+name: Publicar no Instagram
+
+on:
+  schedule:
+    # a cada 30 min (UTC). Horários da fila são America/Sao_Paulo (UTC-3);
+    # o script só publica o que já venceu, então o atraso máximo é ~30 min.
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+    inputs:
+      post:
+        description: "Número do post para forçar (ex.: 03). Vazio = só os vencidos."
+        required: false
+
+permissions:
+  contents: write
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Publicar
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IMG_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/main/img
+        run: |
+          if [ -n "${{ github.event.inputs.post }}" ]; then
+            python3 publicar.py --post "${{ github.event.inputs.post }}"
+          else
+            python3 publicar.py
+          fi
+      - name: Salvar status na fila
+        run: |
+          git config user.name "publicador"
+          git config user.email "publicador@users.noreply.github.com"
+          git add fila.json
+          git diff --cached --quiet || git commit -m "fila: atualiza status"
+          git push
