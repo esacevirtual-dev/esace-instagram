@@ -6,8 +6,9 @@
    "01_arte_01.jpg"
   ],
   "legenda": "Hoje é o Dia Internacional da Pessoa Idosa.\n\nA frase que mais afasta gente do estudo não é \"não tenho dinheiro\" nem \"não tenho tempo\". É \"já passou da minha idade\".\n\nE ela não se sustenta. A velocidade de processamento realmente cai com os anos — isso é verdade. Mas a capacidade de formar memória nova acompanha a pessoa a vida inteira. O que muda é o método: adulto aprende melhor partindo do que já viveu, e pior tentando decorar do zero como fazia na escola.\n\nOu seja, o obstáculo real não é a idade. É insistir em estudar como se estudava aos quinze.\n\nSe você tem uma curiosidade pendente desde os vinte, ela continua disponível.\n\n#DiaDaPessoaIdosa #ESACEVirtual #NuncaÉTarde #EducacaoOnline #AprendizadoContinuo #Longevidade",
-  "status": "pendente",
-  "ig_media_id": null
+  "status": "erro",
+  "ig_media_id": null,
+  "erro": "GET me -> HTTP 400: {\"error\":{\"message\":\"Invalid OAuth 2.0 Access Token\",\"type\":\"IGApiException\",\"code\":190,\"error_data\":{},\"fbtrace_id\":\"AWNEkz4lE2CUugMPUhDT8zz\"}}"
  },
  {
   "post": "02",
