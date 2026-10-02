@@ -19,8 +19,9 @@
    "02_arte_03.jpg"
   ],
   "legenda": "Você leu trinta páginas e não lembra de nenhuma.\n\nNão é falta de inteligência nem de foco. É que ler passando o olho ativa quase nada: o cérebro trata o texto como paisagem, não como informação para guardar.\n\nTrês movimentos mudam isso, e nenhum exige material nenhum.\n\n→ Antes de ler, leia só os títulos e faça uma pergunta. \"O que eu quero saber daqui?\" Aí o cérebro lê procurando resposta, em vez de empurrar linha.\n\n→ No fim de cada página, feche o livro e diga em voz alta o que entendeu. Se travar, você não entendeu — e descobriu isso em dez segundos, não na prova.\n\n→ Anote só o que você não sabia. Grifar tudo é matematicamente o mesmo que não grifar nada.\n\nSalva aí e usa no próximo capítulo.\n\n#TecnicasDeEstudo #LeituraAtiva #ESACEVirtual #ComoEstudar #Estudos #Concursos #Leitura",
-  "status": "pendente",
-  "ig_media_id": null
+  "status": "erro",
+  "ig_media_id": null,
+  "erro": "GET me -> HTTP 400: {\"error\":{\"message\":\"Invalid OAuth 2.0 Access Token\",\"type\":\"IGApiException\",\"code\":190,\"error_data\":{},\"fbtrace_id\":\"ArnmY4w3N6_MH1gskzIGkC7\"}}"
  },
  {
   "post": "03",
