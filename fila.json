@@ -32,8 +32,9 @@
    "03_arte_03.jpg"
   ],
   "legenda": "A Constituição de 1988 faz 38 anos hoje. Ela tem mais de 250 artigos, e você usa uns cinco sem saber que são dela.\n\n→ Artigo 5º — ninguém é obrigado a fazer ou deixar de fazer alguma coisa senão em virtude de lei. É o princípio que sustenta boa parte do que você entende por liberdade no dia a dia.\n\n→ Artigo 6º — educação, saúde, alimentação, trabalho, moradia e transporte como direitos sociais. Não é promessa de governo: é texto constitucional.\n\n→ Artigo 7º — a lista dos direitos do trabalhador urbano e rural. Férias, décimo terceiro, FGTS, aviso prévio.\n\n→ Artigo 205 — a educação como direito de todos e dever do Estado e da família.\n\n→ Artigo 227 — prioridade absoluta para criança e adolescente.\n\nConstituição não é assunto de advogado. É o manual de instruções do país onde você mora — e ele é público.\n\n#Constituicao1988 #DireitoConstitucional #ESACEVirtual #Cidadania #DireitosSociais #Direito",
-  "status": "pendente",
-  "ig_media_id": null
+  "status": "erro",
+  "ig_media_id": null,
+  "erro": "GET me -> HTTP 400: {\"error\":{\"message\":\"Invalid OAuth 2.0 Access Token\",\"type\":\"IGApiException\",\"code\":190,\"error_data\":{},\"fbtrace_id\":\"AK06Kz-OH8G34QpRItDersN\"}}"
  },
  {
   "post": "04",
