@@ -43,8 +43,9 @@
    "04_arte_01.jpg"
   ],
   "legenda": "23 minutos e 15 segundos.\n\nÉ quanto tempo leva, em média, para voltar à concentração plena depois de uma interrupção. O número vem de uma pesquisa da Universidade da Califórnia em Irvine, conduzida por Gloria Mark.\n\nRepare no tamanho da desproporção: você olha uma notificação por seis segundos e paga vinte e três minutos por ela. Duas interrupções dentro de uma hora de estudo e a hora acabou.\n\nO detalhe mais incômodo do mesmo estudo: perto de metade das interrupções são causadas pela própria pessoa. Ninguém mandou mensagem — você foi olhar.\n\nE é por isso que o conserto não é força de vontade. É tirar o aparelho do campo de visão, não só do som.\n\nFonte: Gloria Mark, UC Irvine.\n\n#Foco #Produtividade #TecnicasDeEstudo #ESACEVirtual #Concentracao #Estudos",
-  "status": "pendente",
-  "ig_media_id": null
+  "status": "erro",
+  "ig_media_id": null,
+  "erro": "GET me -> HTTP 400: {\"error\":{\"message\":\"Invalid OAuth 2.0 Access Token\",\"type\":\"IGApiException\",\"code\":190,\"error_data\":{},\"fbtrace_id\":\"ASbxeguohZm3RdumbLYf50i\"}}"
  },
  {
   "post": "05",
