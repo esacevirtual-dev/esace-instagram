@@ -54,8 +54,9 @@
    "05_arte_01.jpg"
   ],
   "legenda": "Trocar \"mas\" por \"mais\" é o erro que mais aparece em mensagem de trabalho. E o que mais denuncia pressa.\n\nA regra cabe numa linha: mas é oposição, mais é quantidade.\n\n→ \"Estudei pouco, mas passei.\" — oposição.\n→ \"Preciso estudar mais.\" — quantidade.\n\nO teste de dois segundos: se der para trocar por porém sem ficar estranho, é *mas*. Se der para trocar por uma quantidade maior, é *mais*.\n\nFunciona sempre. Inclusive naquela mensagem que você vai mandar depois do almoço.\n\n#PortuguesSemDrama #DicasDePortugues #ESACEVirtual #Gramatica #EscritaProfissional #Portugues",
-  "status": "pendente",
-  "ig_media_id": null
+  "status": "erro",
+  "ig_media_id": null,
+  "erro": "GET me -> HTTP 400: {\"error\":{\"message\":\"Invalid OAuth 2.0 Access Token\",\"type\":\"IGApiException\",\"code\":190,\"error_data\":{},\"fbtrace_id\":\"AWm7SZkeCF3zn0TNKF7toZX\"}}"
  },
  {
   "post": "06",
