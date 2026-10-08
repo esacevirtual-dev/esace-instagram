@@ -65,8 +65,9 @@
    "06_arte_01.jpg"
   ],
   "legenda": "\"Curso livre não vale nada no currículo.\"\n\nMito. E o equívoco está em comparar coisas diferentes.\n\nCurso livre não substitui diploma — ele nunca prometeu isso. O que ele faz é provar uma competência específica. E é exatamente isso que quem lê currículo procura: não \"onde essa pessoa estudou\", mas \"essa pessoa sabe fazer o que a vaga pede\".\n\nO que realmente derruba um curso livre no currículo é outra coisa, e ninguém fala dela: certificado que não dá para conferir. Sem número, sem código, sem página de validação, vira uma linha que o RH não tem como checar. E linha não checável é linha ignorada.\n\nEntão a pergunta certa nunca foi \"vale?\". É \"dá para verificar?\".\n\n#MitoOuVerdade #CursosLivres #Curriculo #ESACEVirtual #Carreira #CertificadoDigital",
-  "status": "pendente",
-  "ig_media_id": null
+  "status": "erro",
+  "ig_media_id": null,
+  "erro": "GET me -> HTTP 400: {\"error\":{\"message\":\"Invalid OAuth 2.0 Access Token\",\"type\":\"IGApiException\",\"code\":190,\"error_data\":{},\"fbtrace_id\":\"AB8P05bV76tylzZBazoaRKl\"}}"
  },
  {
   "post": "07",
