@@ -76,8 +76,9 @@
    "07_arte_01.jpg"
   ],
   "legenda": "Você tem um curso pronto na cabeça e ainda não percebeu.\n\nÉ aquele assunto que você explica sempre. No grupo do trabalho, para o estagiário, na call que era para durar quinze minutos e durou quarenta. Se você repete a mesma explicação há anos, ela já está estruturada — falta só gravar.\n\nNa ESACE Virtual o especialista monta o curso pelo painel, define o preço e publica. A plataforma resolve o resto: hospedagem das aulas, pagamento, acesso do aluno e emissão do certificado com código de validação.\n\nNão precisa de estúdio. Não precisa de audiência. Precisa de um assunto que resolve o problema de alguém.\n\n→ esacevirtual.com/creators\n\n#SejaInstrutor #ESACEVirtual #CriadorDeConteudo #EducacaoOnline #RendaComConhecimento #Especialista",
-  "status": "pendente",
-  "ig_media_id": null
+  "status": "erro",
+  "ig_media_id": null,
+  "erro": "GET me -> HTTP 400: {\"error\":{\"message\":\"Invalid OAuth 2.0 Access Token\",\"type\":\"IGApiException\",\"code\":190,\"error_data\":{},\"fbtrace_id\":\"ARoXeuigMJx1vZET6zyWkr7\"}}"
  },
  {
   "post": "08",
