@@ -87,8 +87,9 @@
    "08_arte_01.jpg"
   ],
   "legenda": "Dia das Crianças. E uma inveja honesta.\n\nCriança aprende mais rápido que adulto por um motivo que tem pouco a ver com cérebro jovem: ela não tem vergonha de errar na frente dos outros.\n\nEla fala errado, ri de si mesma, repete, fala de novo. Ninguém aos quatro anos desiste de uma palavra difícil com medo de parecer burro. A gente desaprende isso por volta dos doze e passa o resto da vida pagando a conta — adulto prefere não tentar a tentar mal.\n\nSe você trava antes de começar um curso, de falar outra língua, de abrir um assunto novo: o obstáculo quase nunca é capacidade. É plateia imaginária.\n\nE a plateia não está olhando.\n\n#DiaDasCriancas #ESACEVirtual #Aprendizado #MedoDeErrar #EducacaoOnline",
-  "status": "pendente",
-  "ig_media_id": null
+  "status": "erro",
+  "ig_media_id": null,
+  "erro": "GET me -> HTTP 400: {\"error\":{\"message\":\"Invalid OAuth 2.0 Access Token\",\"type\":\"IGApiException\",\"code\":190,\"error_data\":{},\"fbtrace_id\":\"ANRhvk15XY7zxWQYn8pWBj7\"}}"
  },
  {
   "post": "09",
