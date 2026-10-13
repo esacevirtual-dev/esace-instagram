@@ -98,8 +98,9 @@
    "09_arte_01.jpg"
   ],
   "legenda": "Metade.\n\nÉ quanto do que você estudou ontem já foi embora hoje, se você não revisou nada. No fim de um mês, sobra algo perto de três por cento.\n\nO número vem da curva do esquecimento, descrita por Hermann Ebbinghaus em 1885 e confirmada por replicações desde então. Não é discurso motivacional ao contrário: é o comportamento padrão da memória quando ninguém a provoca de novo.\n\nO que resolve não é estudar mais horas. É revisar em intervalos crescentes — e a revisão que funciona é a que te obriga a lembrar antes de olhar a resposta.\n\nReler não conta. Reler dá sensação de domínio sem produzir memória, que é a armadilha mais cara do estudo.\n\nSemana que vem eu mostro os quatro intervalos que resolvem isso.\n\nFonte: curva do esquecimento, Ebbinghaus (1885).\n\n#CurvaDoEsquecimento #TecnicasDeEstudo #Memoria #ESACEVirtual #ComoEstudar #Revisao",
-  "status": "pendente",
-  "ig_media_id": null
+  "status": "erro",
+  "ig_media_id": null,
+  "erro": "GET me -> HTTP 400: {\"error\":{\"message\":\"Invalid OAuth 2.0 Access Token\",\"type\":\"IGApiException\",\"code\":190,\"error_data\":{},\"fbtrace_id\":\"AGrzJA3FZmVGv96R83HO5BA\"}}"
  },
  {
   "post": "10",
