@@ -109,8 +109,9 @@
    "10_arte_01.jpg"
   ],
   "legenda": "Carga horária.\n\nUm curso de 60 horas não tem 60 horas de vídeo. Quase nunca tem nem dez.\n\nCarga horária é a estimativa do tempo total de dedicação que o curso exige: assistir, ler o material, fazer as atividades, revisar e ser avaliado. É a mesma lógica da universidade, onde uma disciplina de 60 horas nunca foi 60 horas de professor falando.\n\nPor que isso importa na prática: é a carga horária que vai no certificado, é ela que o RH lê, e é por ela que muitos planos de carreira e editais pontuam.\n\nE é justamente por isso que ela merece conferência. Curso com carga horária declarada alta e nenhum material por trás é o tipo de coisa que não sustenta uma checagem.\n\nQuando for escolher, olhe o que compõe a carga — nunca o número sozinho.\n\n#Decifra #CargaHoraria #CursosLivres #ESACEVirtual #Certificado #Carreira",
-  "status": "pendente",
-  "ig_media_id": null
+  "status": "erro",
+  "ig_media_id": null,
+  "erro": "GET me -> HTTP 400: {\"error\":{\"message\":\"Invalid OAuth 2.0 Access Token\",\"type\":\"IGApiException\",\"code\":190,\"error_data\":{},\"fbtrace_id\":\"AAYcWAGZ6V4QbIxPveOCg71\"}}"
  },
  {
   "post": "11",
