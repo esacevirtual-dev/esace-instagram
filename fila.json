@@ -122,8 +122,9 @@
    "11_arte_03.jpg"
   ],
   "legenda": "Você lembra do nome.\n\nPode ter esquecido a matéria inteira, a escola, o ano em que foi. Mas se alguém perguntar qual professor mudou alguma coisa em você, o nome vem em menos de três segundos.\n\nÉ um poder estranho de se ter. A pessoa passou um ano na sua frente, ganhando mal, corrigindo prova no fim de semana, e ficou na sua cabeça por décadas. Quase nenhuma outra profissão faz isso.\n\nHoje é o Dia do Professor. Não vamos vender nada aqui.\n\nSó um pedido: escreve o nome dele aqui embaixo. E se ainda der para encontrar essa pessoa, manda a mensagem — professor quase nunca fica sabendo que deu certo.\n\n#DiaDoProfessor #15DeOutubro #ESACEVirtual #Educacao #Gratidao #Professores",
-  "status": "pendente",
-  "ig_media_id": null
+  "status": "erro",
+  "ig_media_id": null,
+  "erro": "GET me -> HTTP 400: {\"error\":{\"message\":\"Invalid OAuth 2.0 Access Token\",\"type\":\"IGApiException\",\"code\":190,\"error_data\":{},\"fbtrace_id\":\"AuOzJ-0-bQFMxrYux0Hw6AU\"}}"
  },
  {
   "post": "12",
