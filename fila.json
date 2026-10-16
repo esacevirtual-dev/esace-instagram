@@ -133,8 +133,9 @@
    "12_arte_01.jpg"
   ],
   "legenda": "Aula gravada não responde pergunta.\n\nEla ensina o \"como\" muito bem: no seu ritmo, quantas vezes você quiser, às onze da noite se for preciso. O que ela não faz é resolver o \"e no meu caso, que é diferente?\".\n\nÉ para isso que existem os eventos ao vivo da ESACE Virtual. Sessões com especialistas, com espaço para pergunta aberta, exemplo real e aquela dúvida específica que não cabe numa aula gravada — porque quando a aula foi gravada, a sua dúvida ainda não existia.\n\nCom certificado de participação, como manda o figurino.\n\n→ Agenda em esacevirtual.com/eventos\n\n#EventosOnline #AoVivo #ESACEVirtual #Webinar #EducacaoOnline #CertificadoDigital",
-  "status": "pendente",
-  "ig_media_id": null
+  "status": "erro",
+  "ig_media_id": null,
+  "erro": "GET me -> HTTP 400: {\"error\":{\"message\":\"Invalid OAuth 2.0 Access Token\",\"type\":\"IGApiException\",\"code\":190,\"error_data\":{},\"fbtrace_id\":\"AZgEzbThULodiXxIe5m3MYH\"}}"
  },
  {
   "post": "13",
