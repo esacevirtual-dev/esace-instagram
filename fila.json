@@ -144,8 +144,9 @@
    "13_arte_01.jpg"
   ],
   "legenda": "Outubro Rosa.\n\nO câncer de mama é o tipo de câncer mais comum entre mulheres no Brasil, excluídos os de pele não melanoma. E é também um dos que melhor respondem ao tratamento quando descobertos cedo.\n\nO que a campanha pede não custa nada:\n\n→ Conhecer o próprio corpo. Não existe idade para perceber que algo mudou.\n→ Conversar com um profissional sobre quando começar a mamografia de rastreamento. A orientação varia conforme idade, histórico familiar e fatores de risco — não é a mesma para todo mundo.\n→ Não esperar a próxima consulta de rotina diante de um nódulo, de alteração na pele ou na aréola, ou de secreção.\n\nA ESACE não é serviço de saúde e este post não substitui avaliação profissional. Se alguma coisa aqui acendeu uma dúvida sua, leve essa dúvida a um médico — o rastreamento está disponível pelo SUS.\n\n#OutubroRosa #SaudeDaMulher #Prevencao #ESACEVirtual",
-  "status": "pendente",
-  "ig_media_id": null
+  "status": "erro",
+  "ig_media_id": null,
+  "erro": "GET me -> HTTP 400: {\"error\":{\"message\":\"Invalid OAuth 2.0 Access Token\",\"type\":\"IGApiException\",\"code\":190,\"error_data\":{},\"fbtrace_id\":\"AnkT6liFVNJ-MNaEWw3jmYA\"}}"
  },
  {
   "post": "14",
