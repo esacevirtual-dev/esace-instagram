@@ -168,8 +168,9 @@
    "15_arte_01.jpg"
   ],
   "legenda": "\"Aonde você mora?\" — quase todo mundo já falou assim. E está errado.\n\nA regra tem uma palavra só: movimento.\n\n→ Onde é lugar parado. \"Onde você mora?\" \"Onde fica a sala?\"\n→ Aonde é lugar com deslocamento, para onde se vai. \"Aonde você vai?\" \"Aonde isso nos leva?\"\n\nO teste: se o verbo pede a preposição a — ir a, chegar a, levar a —, é *aonde*. Se não pede, é *onde*.\n\nE existe um terceiro, que quase ninguém usa e chama atenção quando aparece: donde, de onde se vem. \"Donde você veio?\"\n\n#PortuguesSemDrama #DicasDePortugues #ESACEVirtual #Gramatica #EscritaProfissional #Portugues",
-  "status": "pendente",
-  "ig_media_id": null
+  "status": "erro",
+  "ig_media_id": null,
+  "erro": "GET me -> HTTP 400: {\"error\":{\"message\":\"Invalid OAuth 2.0 Access Token\",\"type\":\"IGApiException\",\"code\":190,\"error_data\":{},\"fbtrace_id\":\"A0VL71oVcpeg0Ug0qtsv7h-\"}}"
  },
  {
   "post": "16",
