@@ -179,8 +179,9 @@
    "16_arte_01.jpg"
   ],
   "legenda": "\"Tem que estudar quatro horas por dia.\"\n\nMito. E é o conselho que mais faz gente desistir na primeira semana.\n\nQuatro horas seguidas só funcionam para quem já tem o hábito montado. Para quem está começando, a conta é outra: quatro horas de intenção viram zero hora de execução, porque o dia não abre esse buraco — e aí a pessoa conclui que não serve para estudar. A conclusão errada, tirada do plano errado.\n\nO que sustenta é o oposto. Um bloco curto, que cabe na vida real e acontece todo dia. Quarenta minutos diários batem três horas de domingo com folga, por um motivo simples: memória responde a frequência, não a volume.\n\nComece pelo bloco que você não tem desculpa para pular. Aumentar depois é fácil. Recomeçar do zero toda semana, não.\n\n#MitoOuVerdade #TecnicasDeEstudo #ESACEVirtual #Habitos #ComoEstudar #Rotina",
-  "status": "pendente",
-  "ig_media_id": null
+  "status": "erro",
+  "ig_media_id": null,
+  "erro": "GET me -> HTTP 400: {\"error\":{\"message\":\"Invalid OAuth 2.0 Access Token\",\"type\":\"IGApiException\",\"code\":190,\"error_data\":{},\"fbtrace_id\":\"ACsiQnHtawI_zbXbHOEr5RZ\"}}"
  },
  {
   "post": "17",
