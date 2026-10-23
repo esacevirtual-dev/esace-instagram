@@ -190,8 +190,9 @@
    "17_arte_01.jpg"
   ],
   "legenda": "Assinatura de curso é como academia em janeiro: parece barata até você parar de usar.\n\nNa ESACE Virtual o modelo é outro. Você compra o curso que quer, uma vez, e o acesso é vitalício.\n\nParou dois meses? O curso continua lá. Voltou depois de um ano para revisar antes de uma entrevista? Continua lá, com o material e o certificado no mesmo lugar.\n\nSem plano, sem renovação automática, sem aquela linha na fatura que você não reconhece e não lembra de onde veio.\n\n→ esacevirtual.com/cursos\n\n#AcessoVitalicio #SemAssinatura #ESACEVirtual #CursosOnline #CursosLivres",
-  "status": "pendente",
-  "ig_media_id": null
+  "status": "erro",
+  "ig_media_id": null,
+  "erro": "GET me -> HTTP 400: {\"error\":{\"message\":\"Invalid OAuth 2.0 Access Token\",\"type\":\"IGApiException\",\"code\":190,\"error_data\":{},\"fbtrace_id\":\"ApPlD77_I8qA7QWZY-dIlYU\"}}"
  },
  {
   "post": "18",
