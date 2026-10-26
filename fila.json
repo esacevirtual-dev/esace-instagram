@@ -203,8 +203,9 @@
    "18_arte_03.jpg"
   ],
   "legenda": "Se você não consegue explicar para uma criança de dez anos, você não entendeu.\n\nA frase é atribuída ao físico Richard Feynman e virou um dos métodos de estudo mais eficientes que existem — porque ele ataca o autoengano. Reler dá sensação de domínio. Explicar revela o buraco na hora.\n\nComo fazer, em quatro movimentos:\n\n→ Escolha um conceito e escreva o nome dele no alto de uma folha em branco.\n→ Explique por escrito como se fosse para alguém que nunca ouviu falar do assunto. Sem jargão. Se você precisou da palavra difícil para se explicar, ainda não entendeu.\n→ Quando travar, volte ao material. O ponto exato onde você travou é a sua lacuna — e agora você sabe onde ela está, que é a parte mais difícil.\n→ Simplifique de novo e crie uma analogia. Analogia é o teste final: só constrói quem entendeu.\n\nLeva quinze minutos e vale mais que três releituras.\n\n#MetodoFeynman #TecnicasDeEstudo #ESACEVirtual #ComoEstudar #Aprendizado #Estudos",
-  "status": "pendente",
-  "ig_media_id": null
+  "status": "erro",
+  "ig_media_id": null,
+  "erro": "GET me -> HTTP 400: {\"error\":{\"message\":\"Invalid OAuth 2.0 Access Token\",\"type\":\"IGApiException\",\"code\":190,\"error_data\":{},\"fbtrace_id\":\"AQkDPV8ZXx5igcKm4QZMtu-\"}}"
  },
  {
   "post": "19",
