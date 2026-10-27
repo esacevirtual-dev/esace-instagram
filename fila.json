@@ -214,8 +214,9 @@
    "19_arte_01.jpg"
   ],
   "legenda": "17,5%.\n\nÉ a fatia dos jovens brasileiros de 15 a 29 anos que, em 2025, não estudavam nem estavam ocupados. O dado é da PNAD Educação, divulgada pelo IBGE.\n\nPor trás do número tem menos preguiça e mais engrenagem travada. Quem parou de estudar tem mais dificuldade de entrar no mercado; quem não entra no mercado perde o motivo imediato de voltar a estudar. O ciclo se fecha sozinho e não precisa de ninguém para se manter girando.\n\nO que costuma quebrar esse ciclo raramente é um diploma de quatro anos — é a primeira competência concreta que abre uma porta pequena. Uma porta pequena aberta muda a conta inteira, porque devolve o motivo.\n\nFonte: PNAD Educação 2025, IBGE.\n\n#PNAD #IBGE #Educacao #MercadoDeTrabalho #ESACEVirtual #Qualificacao",
-  "status": "pendente",
-  "ig_media_id": null
+  "status": "erro",
+  "ig_media_id": null,
+  "erro": "GET me -> HTTP 400: {\"error\":{\"message\":\"Invalid OAuth 2.0 Access Token\",\"type\":\"IGApiException\",\"code\":190,\"error_data\":{},\"fbtrace_id\":\"ASeARcaJWrZ8F3aMlHS6Ly9\"}}"
  },
  {
   "post": "20",
