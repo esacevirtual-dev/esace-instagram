@@ -227,8 +227,9 @@
    "20_arte_03.jpg"
   ],
   "legenda": "Curso livre, graduação e pós-graduação não competem entre si. Fazem coisas diferentes.\n\n→ Curso livre — não depende de autorização do MEC, não exige escolaridade prévia e tem carga horária definida pela instituição. Serve para adquirir uma competência específica, rápido. Vale como qualificação profissional e pontua em muitos planos de carreira e editais.\n\n→ Graduação — é reconhecida pelo MEC, dá o título de nível superior e é pré-requisito para uma porção de coisas, inclusive para a pós. Leva anos porque forma uma base ampla, não uma habilidade isolada.\n\n→ Pós-graduação lato sensu, a especialização — exige graduação concluída e tem no mínimo 360 horas. Aprofunda uma área. A stricto sensu, mestrado e doutorado, é outro caminho, voltado à pesquisa.\n\nO erro comum é esperar de um o que só o outro entrega — e desistir do caminho certo por uma comparação injusta.\n\n#Decifra #CursosLivres #Graduacao #PosGraduacao #ESACEVirtual #Carreira",
-  "status": "pendente",
-  "ig_media_id": null
+  "status": "erro",
+  "ig_media_id": null,
+  "erro": "GET me -> HTTP 400: {\"error\":{\"message\":\"Invalid OAuth 2.0 Access Token\",\"type\":\"IGApiException\",\"code\":190,\"error_data\":{},\"fbtrace_id\":\"AWRfIQA0umoPUF4ForAL910\"}}"
  },
  {
   "post": "21",
