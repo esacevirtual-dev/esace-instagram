@@ -238,8 +238,9 @@
    "21_arte_01.jpg"
   ],
   "legenda": "\"Certificado online não é aceito.\"\n\nMito — mas com uma condição que quase ninguém menciona.\n\nNão existe, na prática, distinção entre certificado emitido em papel e certificado emitido digitalmente. O que existe é uma pergunta que o RH faz em silêncio: dá para confirmar que isso é verdadeiro?\n\nCertificado que chega como PDF solto, sem número, sem código e sem uma página onde conferir, é indefensável. Não porque é online — porque é inverificável. E o papel nunca provou nada também: ninguém liga para a escola para conferir carimbo.\n\nUm certificado que se sustenta traz nome, curso, carga horária, data e um código que qualquer pessoa consegue checar numa página pública. É isso que transforma uma linha do currículo em fato.\n\n→ Veja como funciona: esacevirtual.com/validar_doc\n\n#MitoOuVerdade #CertificadoDigital #ESACEVirtual #Curriculo #CursosLivres #Carreira",
-  "status": "pendente",
-  "ig_media_id": null
+  "status": "erro",
+  "ig_media_id": null,
+  "erro": "GET me -> HTTP 400: {\"error\":{\"message\":\"Invalid OAuth 2.0 Access Token\",\"type\":\"IGApiException\",\"code\":190,\"error_data\":{},\"fbtrace_id\":\"AzzM79n86drZZ51x016lTq7\"}}"
  },
  {
   "post": "22",
