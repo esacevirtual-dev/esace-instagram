@@ -251,7 +251,8 @@
    "22_arte_03.jpg"
   ],
   "legenda": "Os quatro fantasmas do estudante.\n\n→ O curso salvo — comprado numa segunda-feira de empolgação, aberto uma vez, nunca concluído. Assombra a aba de favoritos há dois anos.\n\n→ A aula em 2x — você assistiu tudo e não lembra de nada. Tecnicamente concluída, praticamente inexistente.\n\n→ O caderno bonito — quatro cores de caneta, margem perfeita, letra desenhada, zero revisão. Isso é artesanato, não estudo.\n\n→ O \"começo segunda\" — já apareceu em onze segundas diferentes este ano. Deve voltar na próxima.\n\nSexta-feira de Halloween, então vale a pergunta: qual deles te persegue?\n\n#Halloween #ESACEVirtual #Estudos #Humor #Procrastinacao #VidaDeEstudante",
-  "status": "pendente",
-  "ig_media_id": null
+  "status": "erro",
+  "ig_media_id": null,
+  "erro": "GET me -> HTTP 400: {\"error\":{\"message\":\"Invalid OAuth 2.0 Access Token\",\"type\":\"IGApiException\",\"code\":190,\"error_data\":{},\"fbtrace_id\":\"AaxDm4S9vSKw76uX1xJux47\"}}"
  }
 ]
